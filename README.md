@@ -1,4 +1,4 @@
-# qa-bot-using-langchain-openai-mysql
+# Q&A: Question and Answer System Based on OPENAI LLM and Langchain for Fetching Desired data from database  
 
 End-to-End LLM-Powered Q&A System with LangChain, OpenAI, and MySQL
 
@@ -15,13 +15,6 @@ Users can ask natural language questions about wardrobe inventory, and the syste
 4. Present the answer in a clear, user-friendly interface.
 
 It combines modern LLM capabilities with database integration, enabling intuitive, conversational access to structured data.
-
-
-
-# Codebasics Q&A: Question and Answer System Based on Google Palm LLM and Langchain for E-learning company  
-
-This is an end to end LLM project based on Google Palm and Langchain. We are building a Q&A system for an e-learning company called codebasics (website: codebasics.io). Codebasics sells data related courses and bootcamps. They have thousands of learners who uses discord server or email to ask questions. This system will provide a streamlit based user interface for students where they can ask questions and get answers. 
-
 
 <img width="1920" height="947" alt="QA_bot" src="https://github.com/user-attachments/assets/b0563a3d-44ff-4bf4-a2f8-bc5d8aed5237" />
 
