@@ -6,12 +6,12 @@ This project is an end-to-end Question & Answer application built using LangChai
 
 Users can ask natural language questions about wardrobe inventory, and the system will:
 
-    Convert the question into an SQL query using an LLM.
+1.  Convert the question into an SQL query using an LLM.
 
-    Execute the query on a MySQL database.
+2. Execute the query on a MySQL database.
 
-    Retrieve the relevant results.
+3. Retrieve the relevant results.
 
-    Present the answer in a clear, user-friendly interface.
+4. Present the answer in a clear, user-friendly interface.
 
 It combines modern LLM capabilities with database integration, enabling intuitive, conversational access to structured data.
