@@ -41,7 +41,7 @@ It combines modern LLM capabilities with database integration, enabling intuitiv
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone [https://github.com/codebasics/langchain.git](https://github.com/shaheer776/qa-bot-using-langchain-openai-mysql.git)
+  git clone https://github.com/shaheer776/qa-bot-using-langchain-openai-mysql.git
 ```
 2.Navigate to the project directory:
 
