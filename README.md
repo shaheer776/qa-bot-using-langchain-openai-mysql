@@ -1,4 +1,4 @@
-# qs-bot-using-langchain-openai-mysql
+# qa-bot-using-langchain-openai-mysql
 
 End-to-End LLM-Powered Q&A System with LangChain, OpenAI, and MySQL
 
